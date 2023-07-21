@@ -4,6 +4,7 @@
   "description": "creating an api using vanilla node js 😊",
   "main": "index.js",
   "scripts": {
+    "start": "nodemon index.js",
     "test": "jest"
   },
   "repository": {
@@ -17,5 +18,8 @@
   "license": "MIT",
   "dependencies": {
     "jest": "^29.6.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
   }
 }
