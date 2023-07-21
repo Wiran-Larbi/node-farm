@@ -1,0 +1,21 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "creating an api using vanilla node js 😊",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "node-farm"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "DotCipher",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^29.6.1"
+  }
+}
